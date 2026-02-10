@@ -1,0 +1,6 @@
+{
+  "A320": {
+    "fuel_burn_kg_per_nm": 2.5,
+    "optimal_altitude_ft": 37000
+  }
+}

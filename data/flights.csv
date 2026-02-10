@@ -1,0 +1,3 @@
+flight_id,origin,destination,planned_altitude_ft,distance_nm,aircraft_type
+AI101,DEL,BOM,35000,610,A320
+AI202,BLR,DEL,36000,840,A320
