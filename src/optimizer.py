@@ -15,7 +15,7 @@ def optimize_flight(flight, aircraft, weather):
             distance,
             aircraft["fuel_burn"],
             alt,
-            aircraft["optimal_altitude"],
+            aircraft["optimal_altitude_ft"],
             weather
         )
         results.append({"altitude": alt, "fuel": fuel})
