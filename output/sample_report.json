@@ -2,28 +2,28 @@
   {
     "flight_id": "AI101",
     "weather": {
-      "headwind_knots": 0,
-      "turbulence": "moderate",
-      "temp_deviation_c": 0
+      "headwind_knots": -10,
+      "turbulence": "none",
+      "temp_deviation_c": -5
     },
     "recommendation": {
       "original": {
         "altitude": 35000,
-        "fuel": 1534.15
+        "fuel": 1457.44
       },
       "optimized": {
         "altitude": 37000,
-        "fuel": 1525.0
+        "fuel": 1448.75
       },
-      "fuel_saved": 9.15
+      "fuel_saved": 8.69
     }
   },
   {
     "flight_id": "AI202",
     "weather": {
-      "headwind_knots": -10,
-      "turbulence": "none",
-      "temp_deviation_c": 5
+      "headwind_knots": -20,
+      "turbulence": "moderate",
+      "temp_deviation_c": -5
     },
     "recommendation": {
       "original": {
